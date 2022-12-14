@@ -11319,7 +11319,7 @@ header.masthead {
   background: url(../assets/img/rhoadie-background-3.jpg);
   /* background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%); */
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: left center;
   background-attachment: scroll;
   background-size: cover;
 }
