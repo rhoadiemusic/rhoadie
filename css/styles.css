@@ -11382,3 +11382,10 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   letter-spacing: -1px;
   font-weight: 400;
 }
+
+/* responsive bg */
+@media (min-width: 460px){
+ header.masthead {
+    background-position: -180vw center;
+}
+}
